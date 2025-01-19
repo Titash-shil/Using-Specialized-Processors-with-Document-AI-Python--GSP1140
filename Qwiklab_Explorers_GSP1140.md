@@ -16,6 +16,12 @@ sudo chmod +x qwiklab_explorers_gsp1140.sh
 
 ./qwiklab_explorers_gsp1140.sh
 ```
+- Create Processor from : [Here](https://console.cloud.google.com/ai/document-ai/processor-library?project=)
+
+- Choose `Invoice Parser` then named the `Processor` as 
+```
+lab-invoice-parser
+```
 
 ---
 
